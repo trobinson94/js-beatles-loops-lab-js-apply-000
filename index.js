@@ -20,6 +20,7 @@ function johnLennonFacts(fact) {
     newFacts.push(facts[i] + "!!!");
     i++;
   }
+  newFacts.push( "foo!!!", "bar!!!")
   return newFacts
 }
 
