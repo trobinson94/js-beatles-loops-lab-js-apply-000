@@ -21,6 +21,7 @@ function johnLennonFacts(fact) {
     i++;
   }
   newFacts.push( "foo!!!", "bar!!!")
+  
   return newFacts
 }
 
